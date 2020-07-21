@@ -14,6 +14,6 @@ main file consists of how the game proceeds
 
 game, inventory and magic files consists classes to be used in the main file
 
-## To play open main file from the battle folder and run the project
+#### To play open main file from the battle folder and run the project
 
 Have fun :)
